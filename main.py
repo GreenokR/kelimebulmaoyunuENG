@@ -44,8 +44,8 @@ words = {
     "bad": "kötü",
     "bag": "sırt çantası",
     "ball": "top",
-    "bank": "banka"
-    "abandon": "Terk etmek"
+    "bank": "banka",
+    "abandon": "Terk etmek",
     "absence": "Yokluk, bulunmama",
     "accuse": "Suçlamak",
     "achieve": "Başarmak",
