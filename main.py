@@ -45,6 +45,25 @@ words = {
     "bag": "sırt çantası",
     "ball": "top",
     "bank": "banka"
+    "abandon": "Terk etmek"
+    "absence": "Yokluk, bulunmama",
+    "accuse": "Suçlamak",
+    "achieve": "Başarmak",
+    "advantage": "Avantaj",
+    "advertise": "İlan vermek, reklam yapmak",
+    "advice": "Tavsiye",
+    "afford": "Gücü yetmek (maddi)",
+    "agree": "Katılmak, aynı fikirde olmak",
+    "allow": "İzin vermek",
+    "announce": "Duyurmak",
+    "apologize": "Özür dilemek",
+    "appear": "Görünmek",
+    "approach": "Yaklaşmak",
+    "arrange": "Düzenlemek",
+    "arrive": "Varmak",
+    "assist": "Yardım etmek",
+    "assume": "Farz etmek",
+    "avoid": "Kaçınmak"
 }
 
 def kelime_oyunu():
